@@ -1,0 +1,10 @@
+
+
+curl --user corelate:123qwe 192.168.0.48:8001/encrypt -d 
+
+
+* jdbc:postgresql://192.168.56.15:5432/isv_corelate_catalog
+```
+AQBlLSQCAobhZUuTDXbVSvdWGOgQvE6F3HXRE+nhqNFCsA8hAjOKqfsKzr54hy4dLDwj/srkgRKHidZZz3K7d7u4vWX6ME9Y4gWTvqZucN+VtgqB1/iE7LUx9m30yJcYMKPFO1I2ZW1i3hGSrK4Zm135ntLJIv7GnQp/KRJeWB+azQDpaA1kbxJFsi/8KbNw3+3ZhMKp+IM6YTehd3F6yEb/c8dJhjUG8WW2U0/Z8b7Z+wjFMmJbxWwMP9D3LpOI9xyMNONpW/+sxdbt5QbZR0lZEGFBb6kFdjbjyNXrUbN5tQXP8l8FwLBl3BYrjXYMV+CHLKGgz3cJkIHEglu++EAe3HjP/CZtVwL8zh4K66VjtuXXqtgWodgb848fP6FVFsD6LHKi+/UdAoQKnFArG/UbYWwS2lRvaF61Yjf5smY6O9EcGzDYVVTeOkLgCswFV2E=
+```
+
