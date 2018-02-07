@@ -3,8 +3,8 @@ server:
 
 spring:
   datasource:
-    url: '{cipher}AQAyLiCz2P+Rra3Dv6dRcrm9fbKMoqI9L0QMDEycpVfTpnbtqeEkhAm3HeWamJ3pKHcF6KN6TEAYmZXrgKjBfygP9qHXA2mcqinXPP+40WprVpklm1Lrbj0Na7cdH846EzZv06kDOCNP9DozbE1uth28xs15qpBxADSqZ5nopdGwCW2xahMsEmxruLniM8WZgQyhwqm4nTq/YE1kkwMI1PTzwVa5ZM93hUlQmpk3CQqT//n4OhhT/SK7lMKERadt5CWmWno6kHw4wTaPHa4UVdnUd8xzsUAv5DbBVhE0WX2AwFotAAkD9jbXiJkaSPGS4I5wn+FqkLIPaKy95Bv4kQAAcHahOjG0wo7Bp+H0DxuAS5RCJzxfVieKgoOnHuzB5dRvHs5/UCCI3lYntgOi8ueRrjeXxmPYQboL/jUyji2VJA=='
+    url: '{cipher}AQANAy0K4+eYPQRJTsz0CJNHhayhIKi9QTnfJn7/r0EXMGjruuR/ZltcEtqtZl6j2gghyPmLwkbFlHIAKr+bxFMu9IE7BSmiCE3fhUTuSVjtcRcTM/xZ1XCyGEYZNP7y5nsG+QKfZzVHg0gOy6j+Ipdh/sh2sCHlxOC52DZM0fw4Lr7jNBEIAGgFB+J9JbMYxVcXOhiS8+hdQu1D/2rMGR36NOvQ3AxmD+HcZrvlVAoFS8xSjQ80TKTnpKjdDJi3oq6BJIVL16o+YnXzs5RMMFXRY+LukD1OLb1N7cuKHxSjseoVUvoIKF/uLEuwAMvpkoz+/HwwxUqsHFPDAvT9rYyoiUZH4Zd3+UAJi1lDyQABw2hle/9xts/ZBtWAtl+9caVGHlcbY25LqLIe3tkn6JWGj7jhCXmjbWBtrlmuH+w/RwO8o3Ntdeqk22GfRASe50U='
 
 bpmn:
   ribbon:
-    listOfServers: http://localhost:9999
+    listOfServers: http://192.168.0.48:9999
