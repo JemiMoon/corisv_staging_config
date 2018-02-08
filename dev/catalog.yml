@@ -19,4 +19,4 @@ lucene:
 
 notification:
   ribbon:
-    listOfServers: http://localhost:8003
+    listOfServers: http://192.168.0.48:8003
