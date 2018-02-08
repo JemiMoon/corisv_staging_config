@@ -7,4 +7,4 @@ spring:
 
 bpmn:
   ribbon:
-    listOfServers: http://192.168.0.48:9999
+    listOfServers: http://192.168.0.20:9999

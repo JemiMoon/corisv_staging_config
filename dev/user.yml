@@ -47,12 +47,12 @@ user:
 
 cms:
   ribbon:
-    listOfServers: http://192.168.0.48:8082
+    listOfServers: http://192.168.0.20:8082
 
 notification:
   ribbon:
-    listOfServers: http://192.168.0.48:8003
+    listOfServers: http://192.168.0.20:8003
 
 bpmn:
   ribbon:
-    listOfServers: http://192.168.0.48:9999
+    listOfServers: http://192.168.0.20:9999
